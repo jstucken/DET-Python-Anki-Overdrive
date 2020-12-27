@@ -1,5 +1,5 @@
 # DET-Anki-Overdrive-Python
-A Python Object Oriented interface for controlling Anki Overdrive cars directly via bluetooth. This library was specifically created for DET use (customised to assist student learning) and was reverse engineered from <a href="https://github.com/anki/drive-sdk">Anki Drive SDK</a>, <a href="https://github.com/xerodotc/overdrive-python">xerodotc's</a> Python library and other similar projects (see Credits below).
+A Python interface for controlling Anki Overdrive cars directly via bluetooth. This library was specifically created for DET use (customised to assist student learning) and was reverse engineered from <a href="https://github.com/anki/drive-sdk">Anki Drive SDK</a>, <a href="https://github.com/xerodotc/overdrive-python">xerodotc's</a> Python library and other similar projects (see Credits below).
 
 This code is dependent on <a href="https://github.com/IanHarvey/bluepy">bluepy</a>, so it will only work on Linux systems.
 
