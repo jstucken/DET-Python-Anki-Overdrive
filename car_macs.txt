@@ -1,0 +1,14 @@
+car1_mac = "DE:FD:79:49:7B:8E"
+car2_mac = "CF:F4:51:BD:54:A0"
+car3_mac = "D1:D4:89:16:9D:50"
+car4_mac = "FB:60:5B:2C:9A:A2"
+
+car5_mac = "C1:55:C8:25:66:5C"
+car6_mac = "E5:07:18:3D:D2:84"
+car7_mac = "FA:CD:02:A0:53:BD"
+car8_mac = "DD:45:84:88:23:8E"
+
+car9_mac = "D8:08:DD:FA:7C:57"
+car10_mac = "D6:53:F9:B5:83:56"
+car11_mac = "F4:3F:E7:5C:43:03"
+car12_mac = "E8:8B:C7:FC:35:B7"
