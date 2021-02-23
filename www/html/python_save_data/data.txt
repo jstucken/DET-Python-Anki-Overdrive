@@ -1,0 +1,9840 @@
+2021-02-21 21:50:26.52 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 979
+    [location] => 0
+    [car_type] => 33
+)
+2021-02-21 21:50:26.76 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 997
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 21:50:26.99 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 642
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 21:50:27.21 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 509
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 21:50:27.43 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 378
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 21:50:27.65 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 674
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 21:50:27.87 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 83
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 21:50:28.10 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 633
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 21:50:28.34 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 874
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 21:50:28.57 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 119
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 21:50:28.79 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 397
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 21:50:29.01 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 685
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 21:50:29.23 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 943
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 21:50:29.45 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 201
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 21:50:29.67 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 571
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 21:50:29.89 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 418
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 21:50:30.15 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 436
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 21:50:30.37 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 569
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 21:50:30.59 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 582
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 21:50:30.82 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 556
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 21:50:31.07 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 892
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 21:50:31.29 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 923
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 21:50:31.51 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 373
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 21:50:31.73 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 388
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 21:50:31.96 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 890
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 21:50:32.17 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 696
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 21:50:32.60 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 859
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 21:50:32.89 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 289
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 21:50:33.11 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 709
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 21:50:33.37 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 354
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 21:50:33.59 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 514
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 21:50:33.82 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 474
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 21:50:34.04 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 412
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 21:50:34.27 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 765
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 21:50:34.49 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 75
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 21:50:34.75 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 618
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 21:50:34.97 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 897
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 21:50:35.20 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 973
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 21:50:35.42 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 138
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 21:50:35.65 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 529
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 21:50:35.90 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 779
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 21:50:36.13 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 975
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 21:50:36.35 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 37
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 21:50:36.58 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 948
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 21:50:36.80 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 119
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 21:50:37.06 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 521
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 21:50:37.28 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 223
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 21:50:37.51 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 482
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 21:50:37.73 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 334
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 21:50:37.96 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 788
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 21:50:38.18 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 276
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 21:50:38.41 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 112
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 21:50:38.63 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 989
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 21:50:38.86 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 867
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 21:50:39.08 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 922
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 21:50:39.31 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 405
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 21:50:39.56 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 40
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 21:50:39.79 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 836
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 21:50:40.01 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 387
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 21:50:40.24 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 837
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 21:50:40.46 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 629
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 21:50:40.72 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 634
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 21:50:40.94 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 448
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 21:50:41.17 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 88
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 21:50:41.39 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 122
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 21:50:41.62 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 455
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 21:50:41.88 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 201
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 21:50:42.10 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 720
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 21:50:42.32 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 192
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 21:50:42.54 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 894
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 21:50:42.76 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 123
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 21:50:42.98 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 307
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 21:50:43.24 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 648
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 21:50:43.46 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 656
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 21:50:43.68 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 731
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 21:50:43.93 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 369
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 21:50:44.16 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 195
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 21:50:44.38 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 798
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 21:50:44.60 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 1000
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 21:50:44.82 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 974
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 21:50:45.04 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 209
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 21:50:45.29 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 451
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 21:50:45.51 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 19
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 21:50:45.73 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 9
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 21:50:45.95 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 376
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 21:50:46.21 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 307
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 21:50:46.43 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 756
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 21:50:46.66 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 659
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 21:50:46.88 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 525
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 21:50:47.10 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 760
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 21:50:47.33 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 905
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 21:50:47.55 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 295
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 21:50:47.77 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 844
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 21:50:47.99 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 43
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 21:50:48.21 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 234
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 21:50:48.43 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 249
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 21:50:48.65 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 381
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 21:50:48.87 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 876
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 21:50:49.09 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 691
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 21:50:49.32 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 89
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 21:50:49.54 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 487
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 21:50:49.76 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 320
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:01:07.76 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 758
+    [location] => 0
+    [car_type] => MXT
+)
+2021-02-21 22:01:08.02 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 573
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:01:08.24 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 873
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:01:08.49 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 565
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:01:08.74 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 255
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:01:08.97 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 147
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:01:09.19 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 98
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:01:09.41 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 360
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:01:09.66 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 732
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:01:09.88 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 656
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:01:10.10 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 1
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:01:10.32 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 452
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:01:10.54 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 592
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:01:10.76 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 362
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:01:11.02 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 115
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:01:11.25 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 159
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:01:11.47 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 776
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:01:11.72 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 579
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:01:11.94 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 630
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:01:12.17 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 499
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:01:12.39 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 361
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:01:12.62 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 630
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:01:12.85 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 984
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:01:13.07 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 625
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:01:13.29 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 719
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:01:13.52 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 534
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:01:13.78 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 521
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:01:13.00 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 519
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:01:14.23 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 345
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:01:14.48 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 39
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:01:14.71 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 241
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:01:14.93 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 668
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:01:15.16 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 234
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:01:15.38 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 903
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:01:15.64 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 493
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:01:15.86 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 737
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:01:16.09 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 786
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:01:16.35 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 378
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:01:16.58 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 12
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:01:16.85 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 452
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:01:17.07 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 925
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:01:17.30 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 279
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:01:17.52 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 551
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:01:17.75 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 129
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:01:17.97 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 333
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:01:18.19 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 717
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:01:18.41 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 60
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:01:18.63 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 875
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:01:18.98 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 646
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:01:19.20 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 602
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:01:19.42 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 461
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:01:19.64 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 868
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:01:19.86 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 240
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:01:20.08 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 334
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:01:20.30 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 932
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:01:20.53 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 335
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:01:20.75 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 289
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:01:20.99 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 267
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:01:21.21 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 169
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:01:21.44 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 293
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:01:21.66 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 146
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:01:21.88 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 285
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:01:22.10 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 880
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:01:22.32 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 618
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:01:22.55 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 951
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:01:22.77 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 649
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:01:22.99 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 419
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:01:23.21 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 15
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:01:23.43 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 701
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:01:23.65 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 1000
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:01:23.87 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 701
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:01:24.09 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 660
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:01:24.32 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 404
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:01:24.54 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => dd:ss:ff
+    [player_name] => Jonathan
+    [speed] => 188
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:02:39.38 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 935
+    [location] => 0
+    [car_type] => MXT
+)
+2021-02-21 22:02:39.60 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 818
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:02:39.82 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 433
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:02:40.07 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 302
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:02:40.29 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 936
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:02:40.51 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 767
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:02:40.74 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 173
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:02:40.96 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 304
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:02:41.18 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 899
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:02:41.40 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 505
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:02:41.62 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 305
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:02:41.84 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 525
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:02:42.06 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 49
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:02:42.29 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 714
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:02:42.51 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 942
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:02:42.73 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 932
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:02:42.95 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 843
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:02:43.17 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 954
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:02:43.40 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 485
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:02:43.62 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 73
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:02:43.84 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 528
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:02:44.10 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 843
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:02:44.32 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 326
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:02:44.54 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 670
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:02:44.76 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 390
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:02:44.98 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 748
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:02:45.20 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 387
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:02:45.42 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 456
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:02:45.65 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 338
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:02:45.87 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 895
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:02:46.09 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 346
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:02:46.32 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 147
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:02:46.54 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 631
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:02:46.76 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 871
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:02:46.98 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 718
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:02:47.20 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 787
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:02:47.42 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 25
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:02:47.65 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 367
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:02:47.88 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 828
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:02:48.10 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 276
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:02:48.32 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 346
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:02:48.55 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 646
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:02:48.77 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 306
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:02:48.99 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 981
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:02:49.21 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 57
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:02:49.43 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 267
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:02:49.66 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 784
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:02:49.88 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 126
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:02:50.10 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 313
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:02:50.32 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 194
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:02:50.54 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 561
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:02:50.76 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 385
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:02:50.98 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 670
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:02:51.20 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 490
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:02:51.42 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 273
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:02:51.64 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 761
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:02:51.86 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 506
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:02:52.08 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 479
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:02:52.30 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 1000
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:02:52.53 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 563
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:02:52.75 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 179
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:02:52.00 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 805
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:02:53.22 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 556
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:02:53.44 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 930
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:02:53.66 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 920
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:02:53.88 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 765
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:02:54.09 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 946
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:02:54.31 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 357
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:02:54.52 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 645
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:02:54.74 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 579
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:02:54.95 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 754
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:02:55.18 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 71
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:02:55.40 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 662
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:02:55.62 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 883
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:02:55.84 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 843
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:02:56.06 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 142
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:02:56.28 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 826
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:02:56.50 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 602
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:02:56.73 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 369
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:02:56.95 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 15
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:02:57.17 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 430
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:02:57.39 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 717
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:02:57.61 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 976
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:02:57.84 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 332
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:02:58.06 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 306
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:02:58.28 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 705
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:02:58.50 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 583
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:02:58.72 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 477
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:02:58.95 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 636
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:02:59.17 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 623
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:02:59.39 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 226
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:02:59.61 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 303
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:02:59.83 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 478
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:03:00.05 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 75
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:03:00.27 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 264
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:03:00.50 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 210
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:03:00.72 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 153
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:03:00.94 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 825
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:03:01.16 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 697
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:03:01.39 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 747
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:03:01.61 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 177
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:03:01.83 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 435
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:03:02.05 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 344
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:03:02.27 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 877
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:03:02.50 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 932
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:03:02.72 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 740
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:03:02.94 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 149
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:03:03.16 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 541
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:03:03.38 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 879
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:03:03.60 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 555
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:03:03.85 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 957
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:03:04.18 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 250
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:03:04.40 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 165
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:03:04.63 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 921
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:03:04.85 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 927
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:03:05.07 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 322
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:03:05.29 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 204
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:03:05.52 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 90
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:03:05.74 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 503
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:03:05.96 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 762
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:03:06.18 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 453
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:03:06.40 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 398
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:03:06.62 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 770
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:03:06.84 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 904
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:03:07.07 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 327
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:03:07.29 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 910
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:03:07.51 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 467
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:03:07.73 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 244
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:03:07.95 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 239
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:03:08.17 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 337
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:03:08.40 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 376
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:03:08.62 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 479
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:03:08.85 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 108
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:03:09.07 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 614
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:03:09.30 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 592
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:03:09.53 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 996
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:03:09.75 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 51
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:03:09.97 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 952
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:03:10.19 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 228
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:03:10.42 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 417
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:03:10.64 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 618
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:03:10.86 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 950
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:03:11.08 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 256
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:03:11.30 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 972
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:03:11.52 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 241
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:03:11.75 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 349
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:03:11.97 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 566
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:03:12.20 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 712
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:03:12.42 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 405
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:03:12.64 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 158
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:03:12.83 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 826
+    [location] => 0
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:12.86 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 960
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:03:13.08 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 877
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:03:13.16 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 386
+    [location] => 1
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:13.30 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 489
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:03:13.48 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 333
+    [location] => 2
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:13.52 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 617
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:03:13.74 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 852
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:03:13.80 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 655
+    [location] => 3
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:13.96 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 310
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:03:14.12 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 272
+    [location] => 4
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:14.18 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 208
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:03:14.41 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 93
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:03:14.44 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 187
+    [location] => 5
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:14.63 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 835
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:03:14.76 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 843
+    [location] => 6
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:14.85 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 695
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:03:15.07 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 81
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:03:15.08 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 41
+    [location] => 7
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:15.29 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 980
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:03:15.40 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 15
+    [location] => 8
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:15.51 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 108
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:03:15.73 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 327
+    [location] => 9
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:15.73 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 977
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:03:15.96 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 166
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:03:16.05 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 209
+    [location] => 1
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:16.18 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 516
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:03:16.37 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 378
+    [location] => 2
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:16.40 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 274
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:03:16.63 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 902
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:03:16.70 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 84
+    [location] => 3
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:16.85 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 884
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:03:17.02 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 862
+    [location] => 4
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:17.07 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 961
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:03:17.29 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 522
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:03:17.34 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 331
+    [location] => 5
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:17.51 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 837
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:03:17.66 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 983
+    [location] => 6
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:17.73 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 713
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:03:17.95 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 533
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:03:17.98 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 531
+    [location] => 7
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:18.17 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 700
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:03:18.30 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 381
+    [location] => 8
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:18.40 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 193
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:03:18.62 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 601
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:03:18.63 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 446
+    [location] => 9
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:18.84 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 175
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:03:18.95 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 242
+    [location] => 1
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:19.06 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 452
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:03:19.27 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 649
+    [location] => 2
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:19.29 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 422
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:03:19.51 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 18
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:03:19.60 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 69
+    [location] => 3
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:19.73 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 82
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:03:19.92 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 427
+    [location] => 4
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:19.94 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 659
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:03:20.16 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 401
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:03:20.24 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 802
+    [location] => 5
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:20.38 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 989
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:03:20.56 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 616
+    [location] => 6
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:20.60 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 659
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:03:20.83 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 378
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:03:20.89 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 684
+    [location] => 7
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:21.05 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 581
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:03:21.21 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 321
+    [location] => 8
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:21.27 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 364
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:03:21.49 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 754
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:03:21.53 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 987
+    [location] => 9
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:21.71 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 555
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:03:21.85 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 611
+    [location] => 1
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:21.93 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 729
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:03:22.15 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 42
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:03:22.17 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 750
+    [location] => 2
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:22.37 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 0
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:03:22.49 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 507
+    [location] => 3
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:22.59 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 919
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:03:22.81 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 72
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:03:22.82 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 818
+    [location] => 4
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:23.03 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 449
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:03:23.14 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 283
+    [location] => 5
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:23.25 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 952
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:03:23.46 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 661
+    [location] => 6
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:23.47 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 133
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:03:23.70 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 764
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:03:23.78 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 76
+    [location] => 7
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:23.92 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 193
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:03:24.10 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 258
+    [location] => 8
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:24.14 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 260
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:03:24.36 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 615
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:03:24.42 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 664
+    [location] => 9
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:24.58 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 571
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:03:24.74 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 269
+    [location] => 1
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:24.80 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 221
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:03:25.02 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 516
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:03:25.06 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 700
+    [location] => 2
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:25.24 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 932
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:03:25.38 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 368
+    [location] => 3
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:25.46 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 524
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:03:25.68 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 208
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:03:25.70 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 568
+    [location] => 4
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:25.90 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 536
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:03:26.02 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 764
+    [location] => 5
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:26.13 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 946
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:03:26.34 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 631
+    [location] => 6
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:26.35 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 219
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:03:26.57 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 211
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:03:26.67 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 547
+    [location] => 7
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:26.79 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 583
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:03:26.99 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 237
+    [location] => 8
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:27.01 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 460
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:03:27.24 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 52
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:03:27.31 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 645
+    [location] => 9
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:27.46 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 578
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:03:27.64 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 141
+    [location] => 1
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:27.68 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 914
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-21 22:03:27.90 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 786
+    [location] => 2
+    [car_type] => MXT
+)
+2021-02-21 22:03:27.96 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC 2
+    [player_name] => Mary
+    [speed] => 58
+    [location] => 2
+    [car_type] => Ice Charger
+)
+2021-02-21 22:03:28.12 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 962
+    [location] => 3
+    [car_type] => MXT
+)
+2021-02-21 22:03:28.34 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 310
+    [location] => 4
+    [car_type] => MXT
+)
+2021-02-21 22:03:28.56 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 275
+    [location] => 5
+    [car_type] => MXT
+)
+2021-02-21 22:03:28.78 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 831
+    [location] => 6
+    [car_type] => MXT
+)
+2021-02-21 22:03:29.00 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 258
+    [location] => 7
+    [car_type] => MXT
+)
+2021-02-21 22:03:29.22 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 878
+    [location] => 8
+    [car_type] => MXT
+)
+2021-02-21 22:03:29.44 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => MAC1
+    [player_name] => Jonathan
+    [speed] => 761
+    [location] => 9
+    [car_type] => MXT
+)
+2021-02-21 22:08:46.95 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 139
+    [location] => 0
+    [car_type] => 33
+)
+2021-02-21 22:08:47.17 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 16
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:08:47.39 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 142
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:08:47.61 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 740
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:08:47.83 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 665
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:08:48.05 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 506
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:08:48.27 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 328
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:08:48.50 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 414
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:08:48.74 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 641
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:08:48.96 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 181
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:08:49.18 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 169
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:08:49.40 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 477
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:08:49.63 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 775
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:08:49.88 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 348
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:08:50.10 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 660
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:08:50.32 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 571
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:08:50.57 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 107
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:08:50.80 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 629
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:08:51.02 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 673
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:08:51.27 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 265
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:08:51.49 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 995
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:08:51.71 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 114
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:08:51.94 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 130
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:08:52.16 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 766
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:08:52.38 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 955
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:08:52.60 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 54
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:08:52.83 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 700
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:08:53.08 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 768
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:08:53.30 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 792
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:08:53.52 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 17
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:08:53.77 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 92
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:08:53.00 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 785
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:08:54.22 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 765
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:08:54.46 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 32
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:08:54.68 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 733
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:08:54.91 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 408
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:08:55.13 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 222
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:08:55.35 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 265
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:08:55.57 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 123
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:08:55.79 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 430
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:08:56.05 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 966
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:08:56.27 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 625
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:08:56.57 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 275
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:08:56.82 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 954
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:08:57.04 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 946
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:08:57.26 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 144
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:08:57.48 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 677
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:08:57.71 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 498
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:08:57.93 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 160
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:08:58.19 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 49
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:08:58.42 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 802
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:08:58.67 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 215
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:08:58.90 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 277
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:08:59.12 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 618
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:08:59.39 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 270
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:08:59.61 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 15
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:08:59.84 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 683
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:00.06 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 618
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:00.32 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 428
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:00.54 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 656
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:00.76 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 51
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:00.99 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 79
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:01.21 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 110
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:01.43 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 50
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:01.66 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 182
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:01.88 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 965
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:02.11 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 813
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:02.36 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 532
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:02.58 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 140
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:02.81 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 532
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:03.03 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 368
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:03.25 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 131
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:03.50 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 845
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:03.73 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 813
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:03.95 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 157
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:04.18 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 524
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:04.40 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 626
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:04.63 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 73
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:04.86 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 777
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:05.08 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 729
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:05.30 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 729
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:05.52 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 334
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:05.74 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 604
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:05.96 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 75
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:06.18 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 243
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:06.46 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 125
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:06.68 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 237
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:06.90 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 625
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:07.12 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 784
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:07.34 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 131
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:07.56 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 635
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:07.78 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 907
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:08.00 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 267
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:08.22 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 56
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:08.44 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 47
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:08.93 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 119
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:09.16 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 301
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:09.41 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 603
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:09.63 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 304
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:09.86 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 655
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:10.08 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 139
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:10.30 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 690
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:10.55 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 135
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:10.78 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 727
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:11.00 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 830
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:11.23 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 849
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:11.45 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 320
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:11.67 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 550
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:11.89 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 389
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:12.11 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 761
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:12.37 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 793
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:12.59 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 364
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:12.81 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 464
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:13.03 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 441
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:13.29 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 353
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:13.51 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 982
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:13.73 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 83
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:13.95 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 117
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:14.18 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 826
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:14.40 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 318
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:14.62 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 541
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:14.87 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 766
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:15.10 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 655
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:15.32 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 404
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:15.54 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 274
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:15.77 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 872
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:15.99 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 100
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:16.25 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 682
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:16.47 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 1
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:16.69 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 38
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:16.94 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 436
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:17.16 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 70
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:17.38 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 220
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:17.64 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 314
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:17.86 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 912
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:18.08 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 746
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:18.30 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 474
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:18.52 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 315
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:18.75 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 430
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:18.96 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 181
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:19.18 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 118
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:19.40 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 209
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:19.63 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 302
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:19.85 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 831
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:20.07 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 261
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:20.29 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 9
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:20.51 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 157
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:20.74 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 973
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:20.96 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 289
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:21.18 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 689
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:21.40 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 940
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:21.62 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 445
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:21.84 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 867
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:22.06 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 426
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:22.29 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 307
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:22.51 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 456
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:22.73 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 302
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:22.95 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 816
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:23.20 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 538
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:23.43 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 372
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:23.65 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 794
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:23.87 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 340
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:24.09 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 977
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:24.31 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 744
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:24.53 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 962
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:24.75 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 75
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:24.97 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 670
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:25.19 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 814
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:25.42 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 255
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:25.64 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 954
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:25.86 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 210
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:26.08 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 796
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:26.30 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 700
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:26.52 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 302
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:26.74 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 588
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:26.96 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 223
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:27.18 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 118
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:27.40 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 278
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:27.62 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 962
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:27.85 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 591
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:28.07 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 667
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:28.28 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 703
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:28.51 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 473
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:28.73 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 368
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:28.95 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 204
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:29.17 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 102
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:29.39 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 612
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:29.61 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 789
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:29.83 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 410
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:30.06 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 198
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:30.28 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 135
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:30.50 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 69
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:30.72 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 683
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:30.94 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 341
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:31.16 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 31
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:31.38 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 17
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:31.61 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 855
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:31.83 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 548
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:32.05 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 864
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:32.27 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 509
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:32.49 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 163
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:32.71 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 376
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:32.93 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 424
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:33.15 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 969
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:33.37 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 221
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:33.59 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 994
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:33.82 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 950
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:34.04 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 373
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:34.26 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 453
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:34.47 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 253
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:34.69 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 81
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:34.92 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 587
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:35.14 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 865
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:35.36 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 67
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:35.58 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 933
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:35.80 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 668
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:36.02 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 619
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:36.24 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 143
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:36.46 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 747
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:36.68 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 612
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:36.90 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 230
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:37.13 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 875
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:37.35 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 87
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:37.57 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 344
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:37.79 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 430
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:38.01 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 146
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:38.23 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 376
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:38.45 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 165
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:38.67 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 726
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:38.89 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 128
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:39.11 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 505
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:39.33 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 694
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:39.55 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 406
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:39.77 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 995
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:39.99 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 99
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:40.21 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 548
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:40.43 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 790
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:40.66 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 266
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:40.88 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 435
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:41.10 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 72
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:41.32 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 51
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:41.54 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 772
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:41.76 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 967
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:41.98 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 731
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:42.20 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 918
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:42.42 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 902
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:42.64 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 380
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:42.86 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 661
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:43.08 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 537
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:43.31 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 955
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:43.53 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 46
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:43.75 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 129
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:43.97 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 129
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:44.19 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 196
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:44.42 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 778
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:44.64 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 801
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:44.85 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 332
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:45.07 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 547
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:45.28 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 873
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:45.50 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 737
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:45.72 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 197
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:45.94 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 91
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:46.17 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 758
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:46.40 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 92
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:46.62 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 347
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:46.84 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 653
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:47.06 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 171
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:47.28 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 607
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:47.50 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 734
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:47.73 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 165
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:47.95 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 43
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:48.17 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 238
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:48.40 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 156
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:48.62 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 143
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:48.84 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 901
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:49.07 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 508
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:49.29 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 719
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:49.51 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 562
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:49.74 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 821
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:49.96 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 252
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:50.19 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 35
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:50.42 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 570
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:50.64 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 887
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:50.87 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 772
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:51.09 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 905
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:51.31 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 421
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:51.53 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 678
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:51.75 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 408
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:51.97 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 777
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:52.20 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 814
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:52.42 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 370
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:52.64 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 224
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:52.86 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 310
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:53.08 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 335
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:53.30 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 875
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:53.52 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 80
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:53.74 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 190
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:53.97 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 112
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:54.19 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 161
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:54.41 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 998
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:54.63 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 739
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:54.85 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 752
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:55.07 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 957
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:55.30 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 631
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:55.51 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 160
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:55.74 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 316
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:55.96 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 378
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:56.18 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 983
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:56.40 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 672
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:56.62 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 899
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:56.85 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 308
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:57.07 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 871
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:57.29 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 436
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:57.51 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 402
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:57.73 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 266
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:57.95 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 576
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:09:58.17 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 52
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:09:58.40 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 920
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:09:58.62 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 389
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:09:58.84 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 981
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:09:59.06 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 959
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:09:59.28 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 848
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:09:59.50 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 554
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:09:59.72 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 953
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:09:59.95 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 425
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:10:00.17 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 188
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:10:00.40 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 522
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:10:00.62 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 32
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:10:00.85 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 629
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:10:01.07 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 274
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:10:01.29 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 652
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:10:01.52 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 188
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:10:01.74 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 90
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-21 22:10:01.97 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 306
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-21 22:10:02.19 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 26
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-21 22:10:02.42 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 338
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-21 22:10:02.64 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 397
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-21 22:10:02.87 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 995
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-21 22:10:03.10 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 825
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-21 22:10:03.32 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 849
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-21 22:10:03.55 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 615
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-21 22:10:03.77 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 452
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-22 21:31:35.05 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 300
+    [location] => 0
+    [car_type] => 33
+)
+2021-02-22 21:31:36.12 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 300
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-22 21:31:37.18 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 300
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-22 21:31:38.26 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 300
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-22 21:31:51.15 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 300
+    [location] => 0
+    [car_type] => 33
+)
+2021-02-22 21:31:52.21 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 400
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-22 21:31:53.27 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 500
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-22 21:31:54.30 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 600
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-22 21:31:55.39 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 700
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-22 21:31:56.42 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 800
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-22 21:31:57.46 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 900
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-22 21:31:58.49 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 1000
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-22 21:31:59.53 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 900
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-22 21:32:00.57 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 800
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-22 21:32:01.60 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 700
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-22 21:32:02.64 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 600
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-22 21:32:03.67 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 500
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-22 21:32:04.71 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 400
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-22 21:32:05.74 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 300
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-22 21:32:06.78 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 400
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-22 21:32:07.81 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 500
+    [location] => 7
+    [car_type] => 33
+)
+2021-02-22 21:32:08.84 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 600
+    [location] => 8
+    [car_type] => 33
+)
+2021-02-22 21:32:09.87 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 700
+    [location] => 9
+    [car_type] => 33
+)
+2021-02-22 21:32:10.91 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 800
+    [location] => 1
+    [car_type] => 33
+)
+2021-02-22 21:32:11.94 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 900
+    [location] => 2
+    [car_type] => 33
+)
+2021-02-22 21:32:12.97 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 1000
+    [location] => 3
+    [car_type] => 33
+)
+2021-02-22 21:32:14.01 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 900
+    [location] => 4
+    [car_type] => 33
+)
+2021-02-22 21:32:15.04 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 800
+    [location] => 5
+    [car_type] => 33
+)
+2021-02-22 21:32:16.07 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => 11
+    [player_name] => 22
+    [speed] => 700
+    [location] => 6
+    [car_type] => 33
+)
+2021-02-22 23:17:25.71 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => TEST
+    [player_name] => Jono
+    [speed] => 300
+    [location] => 0
+    [car_type] => ICE
+)
+2021-02-22 23:17:26.79 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => TEST
+    [player_name] => Jono
+    [speed] => 400
+    [location] => 1
+    [car_type] => ICE
+)
+2021-02-22 23:17:27.83 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => TEST
+    [player_name] => Jono
+    [speed] => 500
+    [location] => 2
+    [car_type] => ICE
+)
+2021-02-22 23:17:28.86 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => TEST
+    [player_name] => Jono
+    [speed] => 600
+    [location] => 3
+    [car_type] => ICE
+)
+2021-02-22 23:17:29.89 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => TEST
+    [player_name] => Jono
+    [speed] => 700
+    [location] => 4
+    [car_type] => ICE
+)
+2021-02-22 23:39:07.09 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:07.22 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:07.35 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:07.48 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:07.64 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:07.77 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:07.90 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:08.03 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:08.16 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:08.29 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:08.42 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:08.59 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:08.72 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:08.85 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:08.98 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:09.11 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:09.24 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:09.38 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:09.51 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:09.70 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:09.83 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:09.96 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:10.09 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:10.26 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:10.39 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:10.52 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:10.65 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:10.78 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:10.91 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:11.04 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:11.17 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:11.31 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:11.47 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:11.61 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:11.74 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:11.87 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:12.00 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:12.13 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 0
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:55.11 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:55.24 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:55.38 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:55.51 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:55.64 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:55.77 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:55.90 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:56.03 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:56.17 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:56.30 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:56.43 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:56.56 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:56.73 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:56.86 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:56.99 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:57.13 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:57.26 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:57.39 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:57.52 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:57.65 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:57.78 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:57.94 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:58.07 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:58.21 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:58.34 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:58.47 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:58.60 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:58.73 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:58.86 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:58.99 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:59.12 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:59.25 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:59.41 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:59.54 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:59.67 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:59.79 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:39:59.91 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:00.03 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:00.15 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:00.27 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:00.40 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:00.53 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:00.68 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:00.80 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:00.93 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:01.05 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:01.17 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:01.29 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:01.42 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:01.55 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:01.68 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:01.82 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:01.98 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:02.12 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:02.25 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:02.38 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:02.51 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:02.64 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:03.01 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:03.35 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:03.48 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:03.61 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:03.74 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:03.87 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:04.04 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:04.17 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:04.30 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:04.44 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:22.68 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:22.84 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:22.97 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:23.11 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:23.24 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:23.37 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:23.50 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:23.63 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:23.77 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:24.00 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:24.21 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:24.34 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:24.47 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:24.60 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:24.73 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:24.89 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:25.03 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:25.16 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:25.29 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:25.42 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:25.55 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:25.69 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:25.82 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:25.95 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:26.11 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:26.24 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:26.37 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:26.50 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:26.64 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:26.77 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:26.90 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:27.04 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:27.17 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:27.33 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:27.46 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:27.59 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:27.73 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:27.86 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:27.98 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:28.12 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:28.25 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:28.38 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:28.54 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:28.67 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:28.81 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:28.94 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:29.07 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:29.20 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:29.34 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:29.47 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:29.61 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
+2021-02-22 23:40:29.77 - POST data detected 
+Array
+(
+    [school_id] => 8521
+    [mac] => mac goes here
+    [player_name] => TESTING LOCAL SEND FROM CAR
+    [speed] => 111
+    [location] => 1
+    [car_type] => MXT
+)
