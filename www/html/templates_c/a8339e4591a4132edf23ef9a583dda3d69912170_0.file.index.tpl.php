@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.30-dev/47, created on 2021-02-23 21:38:25
+/* Smarty version 3.1.30-dev/47, created on 2021-02-23 22:06:20
   from "/var/www/html/templates/index.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.30-dev/47',
-  'unifunc' => 'content_6034db21cff2d6_69415976',
+  'unifunc' => 'content_6034e1ace56820_89721099',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'a8339e4591a4132edf23ef9a583dda3d69912170' => 
     array (
       0 => '/var/www/html/templates/index.tpl',
-      1 => 1614076705,
+      1 => 1614076710,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6034db21cff2d6_69415976 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6034e1ace56820_89721099 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 
     <!-- About Section -->
@@ -35,7 +35,7 @@ function content_6034db21cff2d6_69415976 (Smarty_Internal_Template $_smarty_tpl)
             </div>
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <p>This webs application was created to help fellow teachers code Anki Overdrive cars using Python.
+                    <p>This web application was created to help fellow teachers code Anki Overdrive cars using Python.
 					<br />
 					<br />
 					<strong>Author:</strong> jonathan.stucken2@det.nsw.edu.au

@@ -9,17 +9,22 @@
 #
    
 SCRIPT_TITLE="Lap timer saving to Mysql"
-API_ENDPOINT = "http://10.176.113.64/python_save.php"
+API_ENDPOINT = "http://127.0.0.1/python_save.php"
 
 import time
 from lib import overdrive               # the script which contains variables, functions and classes
 from lib.overdrive import Overdrive     # the overdrive class itself
 from lib import keyboard                # keyboard control class
-import requests
+import requests							# for POSTING data to db
+
 
 # Setup our car
 car = Overdrive()  # init overdrive object
 #car.disableLocationData()
+
+# get car mac and player name from our class object
+car_mac = car.car_mac
+player_name = car.player_name
 
 # count number of laps completed
 lap_count = 0
@@ -54,15 +59,21 @@ while lap_count !=3:
 
 	last_lap_time = prev_lap_time
 	
-	last_lap_time = int(last_lap_time)
+	#last_lap_time = int(last_lap_time)
+	
+	location = car.getLocation()
+	print("location:")
+	print(location)
+	
+	speed = car.getSpeed()
 
 	# data to be sent to api 
 	# data to be sent to api 
 	data = {'school_id':'8521', 
-			'mac':'mac goes here',
-			'player_name':'TESTING LOCAL SEND FROM CAR',
-			'speed':'111',
-			'location':'1',
+			'mac':car_mac,
+			'player_name':player_name,
+			'speed':speed,
+			'location':location,
 			'car_type':'MXT'}
 			
 	# sending post request and saving response as response object 
