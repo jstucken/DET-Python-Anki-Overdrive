@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.30-dev/47, created on 2021-02-24 06:17:00
+/* Smarty version 3.1.30-dev/47, created on 2021-02-24 06:56:41
   from "/var/www/html/templates/default.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.30-dev/47',
-  'unifunc' => 'content_603554ac1577c6_90448135',
+  'unifunc' => 'content_60355df9c677d8_03112562',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '02559ba64523d55b446f6c75d5a324f1ada59dae' => 
     array (
       0 => '/var/www/html/templates/default.tpl',
-      1 => 1613816342,
+      1 => 1614108631,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_603554ac1577c6_90448135 (Smarty_Internal_Template $_smarty_tpl) {
+function content_60355df9c677d8_03112562 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <!DOCTYPE HTML>
 <html lang="en">
@@ -135,7 +135,7 @@ function content_603554ac1577c6_90448135 (Smarty_Internal_Template $_smarty_tpl)
 						</li>
 						
 						<li class="page-scroll">
-							<a href="/graphs.php">Graphs and Stats</a>
+							<a href="/graphs/graphs.php">Graphs and Stats</a>
 						</li>
 					<?php }?>
                     

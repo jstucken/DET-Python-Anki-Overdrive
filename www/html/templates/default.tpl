@@ -99,7 +99,7 @@
 						</li>
 						
 						<li class="page-scroll">
-							<a href="/graphs.php">Graphs and Stats</a>
+							<a href="/graphs/graphs.php">Graphs and Stats</a>
 						</li>
 					{/if}
                     
