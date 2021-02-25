@@ -52,8 +52,8 @@ define('SITE_URL', 'http://'.$_SERVER['SERVER_NAME'].'/');
 // connect to our db
 $db_name = 'det_anki';
 $db_user = 'phpmyadmin';
-$db_pass = 'fullthrottle';
-	
-$db = new db($db_name, $db_user, $db_pass);
+$db_pass = 'fullthrottle2';
+
+db = new db($db_name, $db_user, $db_pass);
 
 ?>
